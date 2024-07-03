@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bizzeonline/static/css/main.aefef5b7.css",
-    "main.js": "/bizzeonline/static/js/main.ab906f9f.js",
-    "static/js/453.ed3810f9.chunk.js": "/bizzeonline/static/js/453.ed3810f9.chunk.js",
+    "main.js": "/bizzeonline/static/js/main.06631dc6.js",
+    "static/js/453.232cd762.chunk.js": "/bizzeonline/static/js/453.232cd762.chunk.js",
     "static/media/portfolio-02.jpg": "/bizzeonline/static/media/portfolio-02.dab9beb50a24a5775c66.jpg",
     "static/media/portfolio-04.jpg": "/bizzeonline/static/media/portfolio-04.1ce5c41920ec27580fc2.jpg",
     "static/media/portfolio-05.jpg": "/bizzeonline/static/media/portfolio-05.7532afbe08214f3c5189.jpg",
@@ -14,11 +14,11 @@
     "static/media/2.jpg": "/bizzeonline/static/media/2.1fb0f441c1dfa1916b03.jpg",
     "index.html": "/bizzeonline/index.html",
     "main.aefef5b7.css.map": "/bizzeonline/static/css/main.aefef5b7.css.map",
-    "main.ab906f9f.js.map": "/bizzeonline/static/js/main.ab906f9f.js.map",
-    "453.ed3810f9.chunk.js.map": "/bizzeonline/static/js/453.ed3810f9.chunk.js.map"
+    "main.06631dc6.js.map": "/bizzeonline/static/js/main.06631dc6.js.map",
+    "453.232cd762.chunk.js.map": "/bizzeonline/static/js/453.232cd762.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aefef5b7.css",
-    "static/js/main.ab906f9f.js"
+    "static/js/main.06631dc6.js"
   ]
 }
